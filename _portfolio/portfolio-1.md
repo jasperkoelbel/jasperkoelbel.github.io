@@ -1,5 +1,5 @@
 ---
-title: "Portfolio item number 1"
+title: "Demo Mix 1: Rock/Metal (Burning Bridges by Dark Ride)"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
