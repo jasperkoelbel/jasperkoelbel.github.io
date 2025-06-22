@@ -57,7 +57,7 @@ author:
   goodreads        : 
   google_plus      : 
   keybase          : 
-  instagram        : "@jaspr.audio# Username
+  instagram        : "@jaspr.audio"
   lastfm           : 
   linkedin         : 
   mastodon         : 
@@ -119,7 +119,7 @@ staticman:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
   hide                   : false     # change to true to hide the RSS feed in the footer
-  path                   : # blank (default) uses feed.xml
+  path                   :
 
 
 # SEO Related
@@ -131,19 +131,19 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               :
 facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Social media default site image
-og_description           :  # Social media default site image description
+og_image                 :
+og_description           :
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   :
+  name                   :
+  links:
 
 
 # Analytics
