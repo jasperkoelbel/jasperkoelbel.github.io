@@ -13,7 +13,7 @@ title                    : "Jaspr Audio"
 title_separator          : "-"
 name                     : &name "Jasper Koelbel"
 description              : &description "Balancing, enhancing, and polishing your music to professional standards. With experience in audio engineering and event technology, I deliver clear, dynamic mixes and masters tailored to your unique sound. "
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : "https://jaspraudio.com" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jasperkoelbel.github.io"
 
