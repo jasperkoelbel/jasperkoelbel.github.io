@@ -18,8 +18,8 @@ Whether you're a solo artist, band, or producer, I help shape your tracks into f
 
 📬 **Contact**  
 📧 [jaspr.audio.contact@gmail.com](mailto:jaspr.audio.contact@gmail.com)  
-📀 [Listen to Demos](#demos) *(add link later)*  
-📷 [Instagram](https://instagram.com/yourusername) *(optional)*
+ 
+📷 [Instagram](https://instagram.com/jaspr.audio) 
 
 ---
 <section id="demos" style="margin-top: 2rem;">
