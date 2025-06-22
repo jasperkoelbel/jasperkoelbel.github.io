@@ -32,6 +32,7 @@ Whether you're a solo artist, band, or producer, I help shape your tracks into f
   <source src="{{ '/assets/audio/DemoMixRock.mp3' | relative_url }}" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
+
 ---
 
 ## 🤝 Let’s Collaborate  
