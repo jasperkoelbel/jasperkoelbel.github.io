@@ -33,7 +33,7 @@ Rock Mix (Burning Bridges by Dark Ride) </p>
 <audio controls style="width: 100%; max-width: 400px; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   <source src="{{ '/assets/audio/DemoMixRock.mp3' | relative_url }}" type="audio/mpeg">
   Your browser does not support the audio element.
-</audio>  
+</audio>  <br>
 
 
 ---
