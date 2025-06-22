@@ -24,7 +24,7 @@ Whether you're a solo artist, band, or producer, I help shape your tracks into f
 ---
 
 <audio controls>
-  <source src="{{ '/assets/audio/demo.mp3' | relative_url }}" type="audio/mpeg">
+  <source src="{{ '/assets/audio/demomixrock.mp3' | relative_url }}" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
