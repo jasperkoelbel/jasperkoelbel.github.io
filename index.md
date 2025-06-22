@@ -23,8 +23,10 @@ Whether you're a solo artist, band, or producer, I help shape your tracks into f
 
 ---
 
-## 🔊 Demo Reel (Coming Soon)  
-I'll be posting short clips of recent projects here — check back soon, or contact me directly if you want to hear something in a specific style.
+<audio controls>
+  <source src="{{ '/assets/audio/demo.mp3' | relative_url }}" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
 
 ---
 
