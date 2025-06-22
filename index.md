@@ -25,7 +25,8 @@ Whether you're a solo artist, band, or producer, I help shape your tracks into f
 
 <h2>🎧 Demo Tracks</h2>
 
-<p>Listen to samples of my mixing/mastering work:  
+<p>Listen to samples of my mixing/mastering work: 
+  
 
 Rock Mix (Burning Bridges by Dark Ride) </p>  
 
@@ -33,6 +34,7 @@ Rock Mix (Burning Bridges by Dark Ride) </p>
   <source src="{{ '/assets/audio/DemoMixRock.mp3' | relative_url }}" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>  
+
 
 ---
 
