@@ -22,12 +22,16 @@ Whether you're a solo artist, band, or producer, I help shape your tracks into f
 📷 [Instagram](https://instagram.com/yourusername) *(optional)*
 
 ---
+<section id="demos" style="margin-top: 2rem;">
 
-<audio controls>
+<h2>🎧 Demo Track</h2>
+
+<p>Listen to a sample of my mixing/mastering work:</p>
+
+<audio controls style="width: 100%; max-width: 400px; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   <source src="{{ '/assets/audio/DemoMixRock.mp3' | relative_url }}" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
-
 ---
 
 ## 🤝 Let’s Collaborate  
