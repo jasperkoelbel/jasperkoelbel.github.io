@@ -25,7 +25,7 @@ Whether you're a solo artist, band, or producer, I help shape your tracks into f
 
 <h2>🎧 Demo Tracks</h2>
 
-<p>Listen to samples of my mixing/mastering work: 
+<p>Listen to samples of my mixing/mastering work: <br>
   
 
 Rock Mix (Burning Bridges by Dark Ride) </p>  
