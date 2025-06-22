@@ -3,7 +3,7 @@ layout: default
 title: Jasper Koelbel | Mixing & Mastering Engineer
 ---
 
-# Jasper Koelbel  
+# Jaspr Audio  
 ### Mixing & Mastering Engineer / Producer  
 Hamburg, DE
 
@@ -18,15 +18,16 @@ Whether you're a solo artist, band, or producer, I help shape your tracks into f
 
 📬 **Contact**  
 📧 [jaspr.audio.contact@gmail.com](mailto:jaspr.audio.contact@gmail.com)  
- 
 📷 [Instagram](https://instagram.com/jaspr.audio) 
 
 ---
 <section id="demos" style="margin-top: 2rem;">
 
-<h2>🎧 Demo Track</h2>
+<h2>🎧 Demo Tracks</h2>
 
-<p>Listen to a sample of my mixing/mastering work:</p>
+<p>Listen to samples of my mixing/mastering work:
+
+Rock Mix (Burning Bridges by Dark Ride) </p>
 
 <audio controls style="width: 100%; max-width: 400px; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   <source src="{{ '/assets/audio/DemoMixRock.mp3' | relative_url }}" type="audio/mpeg">
