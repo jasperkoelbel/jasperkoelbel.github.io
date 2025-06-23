@@ -10970,3 +10970,19 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+:root {
+  --bs-primary: #722F37; 
+}
+
+.text-primary {
+  color: var(--bs-primary) !important;
+}
+
+.bg-primary {
+  background-color: var(--bs-primary) !important;
+}
+
+.btn-primary {
+  background-color: var(--bs-primary) !important;
+  border-color: var(--bs-primary) !important;
+}
