@@ -10969,19 +10969,30 @@ section.resume-section .resume-section-content {
     padding-top: 5rem;
     padding-bottom: 5rem;
   }
+/* === CUSTOM WINE RED THEME === */
+
+/* Sidebar background */
+#sideNav {
+  background-color: #722F37 !important;
+}
+
+/* Last name text */
 .text-primary {
   color: #722F37 !important;
 }
 
-.bg-primary {
-  background-color: #722F37 !important;
+/* Social icons */
+.list-social-icons a {
+  color: #722F37 !important;
+}
+.list-social-icons a:hover {
+  color: #a14450 !important;
 }
 
-.btn-primary {
-  background-color: #722F37 !important;
-  border-color: #722F37 !important;
+/* Email link */
+.subheading a {
+  color: #722F37 !important;
 }
-
-a {
-  color: #722F37;
+.subheading a:hover {
+  color: #a14450 !important;
 }
