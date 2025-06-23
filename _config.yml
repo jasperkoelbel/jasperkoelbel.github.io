@@ -21,7 +21,7 @@ repository               : "jasperkoelbel.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  avatar           : "profile.png"
+  avatar           :
   name             : "Jasper Koelbel"
   pronouns         : 
   bio              : "Mixing/Mastering Engineer/Producer"
@@ -45,7 +45,7 @@ author:
   bitbucket        : 
   codepen          : 
   dribbble         : 
-  github           : "JasprAudio"
+  github           :
   kaggle           :  
   stackoverflow    :  
 
@@ -92,15 +92,15 @@ future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false      #change to true to add link to talkmap on talks page
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : 
   disqus:
     shortname            :
   discourse:
-    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+    server               :
   facebook:
     appid                :
-    num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    num_posts            :
+    colorscheme          : 
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -283,13 +283,6 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-
-
-# Sass/SCSS
-sass:
-  sass_dir: _sass
-  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
-
 
 # Outputting
 permalink: /:categories/:title/
