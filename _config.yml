@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "Hamburg, DE"
-site_theme               : "jekyll-theme-modernist"
+site_theme               : "jekyll-theme-minimal"
 title                    : "Jaspr Audio"
 title_separator          : "-"
 name                     : &name "Jasper Koelbel"
