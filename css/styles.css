@@ -10969,20 +10969,19 @@ section.resume-section .resume-section-content {
     padding-top: 5rem;
     padding-bottom: 5rem;
   }
-}
-:root {
-  --bs-primary: #722F37; 
-}
-
 .text-primary {
-  color: var(--bs-primary) !important;
+  color: #722F37 !important;
 }
 
 .bg-primary {
-  background-color: var(--bs-primary) !important;
+  background-color: #722F37 !important;
 }
 
 .btn-primary {
-  background-color: var(--bs-primary) !important;
-  border-color: var(--bs-primary) !important;
+  background-color: #722F37 !important;
+  border-color: #722F37 !important;
+}
+
+a {
+  color: #722F37;
 }
